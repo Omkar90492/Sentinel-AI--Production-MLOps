@@ -1,8 +1,7 @@
 
-# **Fraud Detection MLOps Pipeline**
+# **Sentinel AI: Production MLOps**
 
-The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to identify potentially fraudulent financial transactions with high accuracy and scalability. This project integrates **Machine Learning (ML) with MLOps principles** to ensure robust experimentation, deployment, and real-time monitoring of fraud detection models.
-
+The Sentinel AI: Production MLOps is a robust end-to-end pipeline architected to mitigate financial risk by detecting fraudulent transactions at scale. The system leverages ensemble classification models and integrates core MLOps principles—specifically containerization, automated CI/CD, and real-time observability—to ensure reliable deployment and continuous monitoring in a production environment.
 
 
 
