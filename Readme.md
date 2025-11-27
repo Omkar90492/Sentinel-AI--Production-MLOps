@@ -3,26 +3,8 @@
 
 The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to identify potentially fraudulent financial transactions with high accuracy and scalability. This project integrates **Machine Learning (ML) with MLOps principles** to ensure robust experimentation, deployment, and real-time monitoring of fraud detection models.
 
-<!-- Tech Stack Badges -->
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?logo=mlflow)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 
-<!-- Project Info Badges -->
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Issues](https://img.shields.io/github/issues/MohitGupta0123/Fraud_Detection_MLOps)
-![Last Commit](https://img.shields.io/github/last-commit/MohitGupta0123/Fraud_Detection_MLOps)
-![Repo Size](https://img.shields.io/github/repo-size/MohitGupta0123/Fraud_Detection_MLOps)
-<!-- ![Stars](https://img.shields.io/github/stars/MohitGupta0123/Fraud_Detection_MLOps)
-![Forks](https://img.shields.io/github/forks/MohitGupta0123/Fraud_Detection_MLOps) -->
 
-## DEMO LINK - [LINK](https://frauddetectionmlops.streamlit.app/)
 
 ---
 
@@ -493,12 +475,3 @@ The fraud detection model is built using a **custom pipeline** with multiple sta
 
 ---
 
-## **15. Author / Contact**
-
-**Author:** Mohit Gupta
-
-* [Mail](mailto:mgmohit1111@gmail.com)
-* [GitHub](https://github.com/MohitGupta0123)
-* [LinkedIn](https://www.linkedin.com/in/mohitgupta012/)
-
-Feel free to connect for feedback, contributions, or collaborations.
