@@ -1,7 +1,7 @@
 
 # **Sentinel AI: Production MLOps**
 
-**The Sentinel AI: Production MLOps** is a robust end-to-end pipeline architected to mitigate financial risk by detecting fraudulent transactions at scale. The system leverages ensemble classification models and integrates core MLOps principles—specifically containerization, automated CI/CD, and real-time observability—to ensure reliable deployment and continuous monitoring in a production environment.
+**The Sentinel AI: Production MLOps** is a Fraud Detection and robust end-to-end pipeline architected to mitigate financial risk by detecting fraudulent transactions at scale. The system leverages ensemble classification models and integrates core MLOps principles—specifically containerization, automated CI/CD, and real-time observability—to ensure reliable deployment and continuous monitoring in a production environment.
 
 
 
