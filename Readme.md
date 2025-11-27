@@ -23,7 +23,7 @@
 12. [Results & Metrics](#12-results--metrics)
 13. [Screenshots](#13-screenshots)
 14. [Future Work](#14-future-work)
-15. [Author / Contact](#15-author--contact)
+
 
 ## **1. Project Overview**
 
